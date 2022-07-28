@@ -1,3 +1,8 @@
+.carousel-inner img {
+    filter: brightness(50%);
+}
+
+
 .added-comma {
     width: 35px;
 }
